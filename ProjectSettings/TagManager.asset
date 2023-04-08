@@ -41,3 +41,12 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 989005037
+    locked: 0
+  - name: Circles
+    uniqueID: 2798642151
+    locked: 0
+  - name: Info
+    uniqueID: 3760814951
+    locked: 0
